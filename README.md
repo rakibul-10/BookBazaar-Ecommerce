@@ -48,12 +48,12 @@ BookBazaar/
 │-- wwwroot/            # Static files (CSS, JS, Images)
 │-- appsettings.json    # Database and app configuration
 │-- Program.cs          # Application entry point
-│-- Startup.cs          # Services and middleware configuration
 ```
 ## ⚙️ How to Run
 ## 1️⃣ Clone the Repository
 ```bash
-git clone [your-repo-link]
+git clone https://github.com/rakibul-10/BookBazaar-Ecommerce.git
+cd BookBazaar-Ecommerce
 cd BookBazaar
 ```
 ## 2️⃣ Configure Database
